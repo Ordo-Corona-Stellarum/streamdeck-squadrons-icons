@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="a-wing.svg"
+   inkscape:export-filename="C:\Users\keath\Workspace\KMX\elite-streamdeck-icons\chaff.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="81.785341"
+     inkscape:cy="138.89873"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     units="px"
+     inkscape:snap-grids="true"
+     objecttolerance="10000"
+     guidetolerance="10000"
+     inkscape:window-width="2321"
+     inkscape:window-height="1879"
+     inkscape:window-x="4802"
+     inkscape:window-y="103"
+     inkscape:window-maximized="0"
+     inkscape:document-rotation="0"
+     showguides="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-others="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4623" />
+    <sodipodi:guide
+       position="-3.96875,62.441667"
+       orientation="0,256"
+       id="guide3351" />
+    <sodipodi:guide
+       position="62.177083,70.379167"
+       orientation="256,0"
+       id="guide3353" />
+    <sodipodi:guide
+       position="-2.6458333,22.754167"
+       orientation="0,-256"
+       id="guide3355" />
+    <sodipodi:guide
+       position="5.2916667,70.379167"
+       orientation="-256,0"
+       id="guide3357" />
+    <sodipodi:guide
+       position="0,67.733334"
+       orientation="0,256"
+       id="guide3359" />
+    <sodipodi:guide
+       position="67.733334,67.733334"
+       orientation="256,0"
+       id="guide3361" />
+    <sodipodi:guide
+       position="67.733334,0"
+       orientation="0,-256"
+       id="guide3363" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-256,0"
+       id="guide3365" />
+    <sodipodi:guide
+       position="0,67.733334"
+       orientation="0,256"
+       id="guide3367" />
+    <sodipodi:guide
+       position="67.733334,67.733334"
+       orientation="256,0"
+       id="guide3369" />
+    <sodipodi:guide
+       position="67.733334,0"
+       orientation="0,-256"
+       id="guide3371" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-256,0"
+       id="guide3373" />
+    <sodipodi:guide
+       position="0,67.733334"
+       orientation="0,256"
+       id="guide3375" />
+    <sodipodi:guide
+       position="67.733334,67.733334"
+       orientation="256,0"
+       id="guide3377" />
+    <sodipodi:guide
+       position="67.733334,0"
+       orientation="0,-256"
+       id="guide3379" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-256,0"
+       id="guide3381" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Icon">
+    <path
+       id="path1699"
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.77627;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.00002;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 29.629451,5.5952008 -0.08108,2.4765877 -0.445953,0.1744084 -0.283793,2.1975391 c -1.622162,4.763414 -4.442692,9.870522 -7.337957,14.999065 l -0.08108,0.802273 h -0.72975 v -6.871665 h -0.64866 l -0.08108,6.243802 -0.567576,0.453456 v 4.046262 l 0.445951,0.418578 0.121634,0.837157 0.324327,0.279054 0.486497,-0.06977 0.08108,-0.906918 0.283788,-0.52322 v -1.988251 l 0.123516,0.02864 v 1.820106 h 3.52519 l -0.810828,4.220673 v 6.941426 h 1.378404 v 2.023131 h -1.500022 v 1.465023 h 6.121729 v -1.430145 h -1.135159 v -2.058009 h 1.135159 V 37.9653 h 0.770283 l 0.121634,1.185974 1.013531,1.220852 h 2.756806 0.405413 2.756803 l 1.013534,-1.220852 0.121634,-1.185974 h 0.770283 v 3.209104 h 1.135152 v 2.058009 h -1.135152 v 1.430145 h 6.121728 v -1.465015 h -1.500029 v -2.023131 h 1.378404 v -6.941426 l -0.810826,-4.220673 h 3.525198 v -1.820107 l 0.123516,-0.02864 v 1.988252 l 0.283786,0.523219 0.08108,0.906924 0.486494,0.06977 0.324333,-0.279053 0.121634,-0.837158 0.44595,-0.418578 v -4.046259 l -0.567574,-0.453458 -0.08109,-6.243801 h -0.648655 v 6.871666 h -0.729741 l -0.08108,-0.802274 C 45.261548,20.314258 42.44101,15.20715 40.818841,10.443736 L 40.535051,8.2461969 40.089102,8.0717885 40.008014,5.5952008 h -4.89599 v 2.2223347 h -0.82002 V 5.5952008 Z m 5.181047,14.7873222 0.01139,5.79e-4 0.01139,-5.79e-4 v 0.0011 l 1.439211,0.07276 0.831095,4.637065 h -2.270306 -0.02279 -2.270313 l 0.831095,-4.637065 1.439218,-0.07276 z m -2.127155,6.476253 h 4.271399 v 2.515827 h -4.271399 z" />
+  </g>
+</svg>
