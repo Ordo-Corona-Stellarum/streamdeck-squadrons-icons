@@ -3,8 +3,8 @@ Stream Deck Star Wars Squadrons Icon Pack
 
 Themeable, language-neutral icons for Star Wars Squadrons and the [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck) programmable button box.
 
-![icons](images/icons.png)
-![Imperial Icons](images/streamdeck1.jpg)
+![icons](images/Empire%20Blue.png)
+![icons](images/Republic%20Orange.png)
 ![New Republic Icons](images/streamdeck2.jpg)
 
 # Features

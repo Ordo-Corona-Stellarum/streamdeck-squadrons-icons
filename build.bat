@@ -27,3 +27,5 @@ for %%s in (icons\*.svg) do (
     magick !svg! -transparent white xc:"%active_color%" -channel RGB -clut "%theme_name%\!activepng!" || exit /B
     magick !svg! -transparent white xc:"%alarm_color%" -channel RGB -clut "%theme_name%\!alarmpng!" || exit /B
 )
+
+magick montage -tile "10x" -background "#101010" -geometry "64x64+0+0" "%theme_name%\*-normal.png" "images\%theme_name%.png"
